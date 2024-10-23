@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "nombre": "Laptop",
+        "descripcion": "Una laptop potente con procesador Intel i7 y 16 GB de RAM.",
+        "precio": 1500.0,
+        "imagen": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "categoria": "Electrónica"
+    },
+    {
+        "id": 2,
+        "nombre": "Camiseta",
+        "descripcion": "Camiseta 100% algodón con un diseño moderno.",
+        "precio": 25.0,
+        "imagen": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "categoria": "Moda"
+    },
+    {
+        "id": 3,
+        "nombre": "Sofá",
+        "descripcion": "Sofá moderno y confortable, ideal para sala de estar.",
+        "precio": 450.0,
+        "imagen": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "categoria": "Hogar"
+    },
+    {
+        "id": 4,
+        "nombre": "Smartphone",
+        "descripcion": "Teléfono inteligente con pantalla AMOLED de 6.5 pulgadas.",
+        "precio": 800.0,
+        "imagen": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "categoria": "Electrónica"
+    },
+    {
+        "id": 5,
+        "nombre": "Zapatillas Deportivas",
+        "descripcion": "Zapatillas cómodas para correr con amortiguación avanzada.",
+        "precio": 120.0,
+        "imagen": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "categoria": "Moda"
+    },
+    {
+        "id": 6,
+        "nombre": "Reloj Inteligente",
+        "descripcion": "Reloj inteligente con seguimiento de actividad física y GPS integrado.",
+        "precio": 180.0,
+        "imagen": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "categoria": "Electrónica"
+    },
+    {
+        "id": 7,
+        "nombre": "Auriculares Bluetooth",
+        "descripcion": "Auriculares inalámbricos con cancelación de ruido activa.",
+        "precio": 250.0,
+        "imagen": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "categoria": "Electrónica"
+    },
+    {
+        "id": 8,
+        "nombre": "Silla de Oficina",
+        "descripcion": "Silla ergonómica con soporte lumbar y ajustes personalizados.",
+        "precio": 300.0,
+        "imagen": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "categoria": "Hogar"
+    },
+    {
+        "id": 9,
+        "nombre": "Gafas de Sol",
+        "descripcion": "Gafas de sol polarizadas con protección UV.",
+        "precio": 50.0,
+        "imagen": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "categoria": "Moda"
+    },
+    {
+        "id": 10,
+        "nombre": "Mochila",
+        "descripcion": "Mochila impermeable con múltiples compartimentos.",
+        "precio": 75.0,
+        "imagen": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "categoria": "Moda"
+    },
+    {
+        "id": 11,
+        "nombre": "Televisor 4K",
+        "descripcion": "Televisor 4K UHD de 55 pulgadas con HDR y Smart TV.",
+        "precio": 1200.0,
+        "imagen": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "categoria": "Electrónica"
+    },
+    {
+        "id": 12,
+        "nombre": "Lámpara de Escritorio",
+        "descripcion": "Lámpara de escritorio LED con ajuste de brillo.",
+        "precio": 45.0,
+        "imagen": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "categoria": "Hogar"
+    },
+    {
+        "id": 13,
+        "nombre": "Zapatos de Cuero",
+        "descripcion": "Zapatos de cuero genuino para ocasiones formales.",
+        "precio": 130.0,
+        "imagen": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "categoria": "Moda"
+    },
+    {
+        "id": 14,
+        "nombre": "Tablet",
+        "descripcion": "Tablet de 10 pulgadas con 128 GB de almacenamiento.",
+        "precio": 600.0,
+        "imagen": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "categoria": "Electrónica"
+    },
+    {
+        "id": 15,
+        "nombre": "Cámara Fotográfica",
+        "descripcion": "Cámara DSLR con lente de 50 mm ideal para fotografía profesional.",
+        "precio": 1100.0,
+        "imagen": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "categoria": "Electrónica"
+    },
+    {
+        "id": 16,
+        "nombre": "Cinturón de Cuero",
+        "descripcion": "Cinturón de cuero genuino, resistente y con hebilla metálica.",
+        "precio": 40.0,
+        "imagen": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "categoria": "Moda"
+    },
+    {
+        "id": 17,
+        "nombre": "Cafetera",
+        "descripcion": "Cafetera automática con espumador de leche integrado.",
+        "precio": 250.0,
+        "imagen": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "categoria": "Hogar"
+    },
+    {
+        "id": 18,
+        "nombre": "Auriculares Inalámbricos",
+        "descripcion": "Auriculares deportivos con resistencia al agua y batería de larga duración.",
+        "precio": 95.0,
+        "imagen": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "categoria": "Electrónica"
+    },
+    {
+        "id": 19,
+        "nombre": "Chaqueta de Invierno",
+        "descripcion": "Chaqueta térmica impermeable ideal para climas fríos.",
+        "precio": 220.0,
+        "imagen": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "categoria": "Moda"
+    },
+    {
+        "id": 20,
+        "nombre": "Colchón Ortopédico",
+        "descripcion": "Colchón ortopédico con espuma de memoria para mayor confort.",
+        "precio": 600.0,
+        "imagen": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "categoria": "Hogar"
+    }
+]
